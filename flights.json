@@ -1,0 +1,28 @@
+{
+  "mock_flights": [
+    {
+      "pnr": "ABC123",
+      "flight_number": "6E-2345",
+      "airline_code": "6E",
+      "passenger_name": "Rajesh Kumar",
+      "departure_airport": "DEL",
+      "arrival_airport": "BLR",
+      "scheduled_departure": "2026-01-25T10:30:00",
+      "scheduled_arrival": "2026-01-25T13:00:00",
+      "gate": "23A",
+      "terminal": "3"
+    },
+    {
+      "pnr": "DEF456",
+      "flight_number": "AI-860",
+      "airline_code": "AI",
+      "passenger_name": "Priya Sharma",
+      "departure_airport": "BOM",
+      "arrival_airport": "MAA",
+      "scheduled_departure": "2026-01-25T14:15:00",
+      "scheduled_arrival": "2026-01-25T16:00:00",
+      "gate": "45B",
+      "terminal": "2"
+    }
+  ]
+}
